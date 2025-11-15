@@ -1,4 +1,4 @@
-let startDate = new Date("Nov 16, 2024");
+let startDate = new Date("Nov 15, 2024");
 let yes = document.getElementById("yes");
 let no = document.getElementById("no");
 let counter = setInterval(() => {
@@ -82,6 +82,7 @@ no.onclick = () => {
   btn[0].style.display = "none";
 };
 // window.addEventListener("load", animateCards);
+
 
 
 
