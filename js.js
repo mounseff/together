@@ -82,7 +82,3 @@ no.onclick = () => {
   btn[0].style.display = "none";
 };
 // window.addEventListener("load", animateCards);
-
-
-
-
